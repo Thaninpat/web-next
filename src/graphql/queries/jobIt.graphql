@@ -1,0 +1,9 @@
+query JobIts {
+  JobIts {
+    id
+    typeJob
+    comment
+    desiredDate
+    createdAt
+  }
+}
